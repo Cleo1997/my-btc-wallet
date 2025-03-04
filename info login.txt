@@ -1,0 +1,4 @@
+My wallet BTC: total 3 BTC
+ssh: 14.185.230.84 port: 22
+user login: mybtc
+password: mybtc
